@@ -5,5 +5,7 @@
 # audio-visualizer
 Simple Audio Visualizer HTML/JavaScript Overlay for OBS
 
-Uses JS, p5 Lib to draw a visualization. Uses p5 dom addon (depreciated) for js serv
-Will Work in Browser/OBS in current state. Allow audio permissions and click page to start. 
+Uses JS, p5 Lib to draw a visualization. 
+p5 dom addon (depreciated) is used for js serv
+Will work in Browser/OBS in current state. 
+Allow audio permissions and click page to start. 
